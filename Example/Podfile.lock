@@ -1,0 +1,16 @@
+PODS:
+  - MiddleAuthority (0.1.0)
+
+DEPENDENCIES:
+  - MiddleAuthority (from `../`)
+
+EXTERNAL SOURCES:
+  MiddleAuthority:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MiddleAuthority: 7a56e3aa48ee534777a2c00f2e93a9c31e9a1783
+
+PODFILE CHECKSUM: 15212407f55cfb188cf861aff57b15d721fd36c3
+
+COCOAPODS: 1.16.2

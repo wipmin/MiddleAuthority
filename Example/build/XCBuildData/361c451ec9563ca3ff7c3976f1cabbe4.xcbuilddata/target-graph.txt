@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Target 'Pods-MiddleAuthority_Tests' in project 'Pods'
+➜ Explicit dependency on target 'Pods-MiddleAuthority_Example' in project 'Pods'
+Target 'Pods-MiddleAuthority_Example' in project 'Pods'
+➜ Explicit dependency on target 'MiddleAuthority' in project 'Pods'
+Target 'MiddleAuthority' in project 'Pods' (no dependencies)

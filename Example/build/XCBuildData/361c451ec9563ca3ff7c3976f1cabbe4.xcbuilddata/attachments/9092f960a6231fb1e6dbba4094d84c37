@@ -1,0 +1,5 @@
+ extern const unsigned char MiddleAuthorityVersionString[];
+ extern const double MiddleAuthorityVersionNumber;
+
+ const unsigned char MiddleAuthorityVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:MiddleAuthority  PROJECT:Pods-1" "\n";
+ const double MiddleAuthorityVersionNumber __attribute__ ((used)) = (double)1.;

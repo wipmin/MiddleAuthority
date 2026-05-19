@@ -1,0 +1,6 @@
+framework module MiddleAuthority {
+  umbrella header "MiddleAuthority-umbrella.h"
+
+  export *
+  module * { export * }
+}

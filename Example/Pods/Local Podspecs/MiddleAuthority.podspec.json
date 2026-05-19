@@ -1,0 +1,22 @@
+{
+  "name": "MiddleAuthority",
+  "version": "0.1.0",
+  "summary": "A short description of MiddleAuthority.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wipmin/MiddleAuthority",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wipmin": "sushiWiper@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wipmin/MiddleAuthority.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MiddleAuthority/Classes/**/*"
+}

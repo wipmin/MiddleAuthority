@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '15.0'
+
+target 'MiddleAuthority_Example' do
+  pod 'MiddleAuthority', :path => '../'
+
+  target 'MiddleAuthority_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
